@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">InClassExample2</string>
+    <string name="txtPassword">Enter a password</string>
+    <string name="txtNumber">Enter a 2-digit number</string>
+    <string-array name="txtGroup">
+        <item>Value A</item>
+        <item>Value B</item>
+        <item>Value C</item>
+    </string-array>
+    <string name="txtPrompt">Select a value</string>
+</resources>

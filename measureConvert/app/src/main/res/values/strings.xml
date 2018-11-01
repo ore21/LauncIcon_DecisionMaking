@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">measureConvert</string>
+    <string name="txtTittle">Measurement Converter</string>
+    <string name="txtHint">Enter a value to convert</string>
+    <string name="rbInToCm">Convert Inches to Centimeters</string>
+    <string name="rbCmToIn">Convert Centimeter to Inches</string>
+    <string name="btn1">Convert Measurement</string>
+</resources>

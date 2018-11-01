@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Launch Icons and Decision Making</string>
+    <string name="txtTittle">Currency Converter</string>
+    <string name="txtHint">Enter a value to convert</string>
+    <string name="rbInToCm">Convert Dollars to Quetzales</string>
+    <string name="rbCmToIn">Convert Quetzales to Dollars</string>
+    <string name="btn1">Convert Currency</string>
+</resources>
